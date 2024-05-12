@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\",
+  "WorkspaceRootPath": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\piksel fatma hoca\\vs web\\gymapp\\gymapp.web\\migrations\\20240508183238_contactmessageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\belgeler\\github\\gymapp\\gymapp\\gymapp.web\\migrations\\20240508183238_contactmessageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\migrations\\20240508183238_contactmessageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\piksel fatma hoca\\vs web\\gymapp\\gymapp.web\\models\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\belgeler\\github\\gymapp\\gymapp\\gymapp.web\\models\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\models\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\piksel fatma hoca\\vs web\\gymapp\\gymapp.web\\areas\\management\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\belgeler\\github\\gymapp\\gymapp\\gymapp.web\\areas\\management\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\areas\\management\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\piksel fatma hoca\\vs web\\gymapp\\gymapp.web\\helpers\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\belgeler\\github\\gymapp\\gymapp\\gymapp.web\\helpers\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\helpers\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\piksel fatma hoca\\vs web\\gymapp\\gymapp.web\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\belgeler\\github\\gymapp\\gymapp\\gymapp.web\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\piksel fatma hoca\\vs web\\gymapp\\gymapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|c:\\users\\mehme\\onedrive\\belgeler\\github\\gymapp\\gymapp\\gymapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AEA23C-8DE4-4FB0-AD7A-7DC6AC16EA17}|GymApp.Web\\GymApp.Web.csproj|solutionrelative:gymapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20240508183238_ContactMessageUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Migrations\\20240508183238_ContactMessageUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Migrations\\20240508183238_ContactMessageUpdate.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Migrations\\20240508183238_ContactMessageUpdate.cs",
-              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Migrations\\20240508183238_ContactMessageUpdate.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Migrations\\20240508183238_ContactMessageUpdate.cs",
               "RelativeToolTip": "GymApp.Web\\Migrations\\20240508183238_ContactMessageUpdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T18:32:38.272Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GymDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Models\\GymDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Models\\GymDbContext.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Models\\GymDbContext.cs",
-              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Models\\GymDbContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Models\\GymDbContext.cs",
               "RelativeToolTip": "GymApp.Web\\Models\\GymDbContext.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAywBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "GymApp.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAUwDIAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ContactMessage.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Models\\ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Models\\ContactMessage.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Models\\ContactMessage.cs",
-              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Models\\ContactMessage.cs",
               "RelativeToolTip": "GymApp.Web\\Models\\ContactMessage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MailSender.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Helpers\\MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Helpers\\MailSender.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Helpers\\MailSender.cs",
-              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Helpers\\MailSender.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Helpers\\MailSender.cs",
               "RelativeToolTip": "GymApp.Web\\Helpers\\MailSender.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TrainerController.cs",
-              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
               "RelativeDocumentMoniker": "GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
-              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\Piksel Fatma Hoca\\VS Web\\GymApp\\GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
               "RelativeToolTip": "GymApp.Web\\Areas\\Management\\Controllers\\TrainerController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwDcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

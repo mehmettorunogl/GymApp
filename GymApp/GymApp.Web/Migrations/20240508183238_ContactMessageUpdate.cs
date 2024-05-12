@@ -9,6 +9,7 @@ namespace GymApp.Web.Migrations
     public partial class ContactMessageUpdate : Migration
     {
         /// <inheritdoc />
+        /// bu bir yorumdur
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
