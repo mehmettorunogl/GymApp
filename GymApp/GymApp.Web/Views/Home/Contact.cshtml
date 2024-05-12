@@ -1,0 +1,65 @@
+﻿@model Contact
+
+
+@* <div class="header__social">
+    <a href="@Model.ContactFacebookRedirectUrl"><i class="fa fa-facebook"></i></a>
+    <a href="@Model.ContactXRedirectUrl"><i class="fa fa-twitter"></i></a>
+    <a href="@Model.ContactLinkedinRedirectUrl"><i class="fa fa-instagram"></i></a>
+    <a href="@Model.ContactLinkedinRedirectUrl"><i class="fa fa-linkedin"></i></a>
+</div> *@
+
+<!-- Breadcrumb Begin -->
+<section class="breadcrumb-option set-bg" data-setbg="/@Model.ContactImageUrl">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb__text">
+                    <h2>@Model.ContactTitle</h2>
+                    <div class="breadcrumb__widget">
+                        <a href="./index.html">Home</a>
+                        <span>@Html.Raw(Model.ContactDescription)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb End -->
+<!-- Contact Section Begin -->
+<section class="contact spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="contact__widget__item">
+                    <span class="icon_phone"></span>
+                    <h4>Phone</h4>
+                    <p>@Model.ContactPhone</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="contact__widget__item">
+                    <span class="icon_mail_alt"></span>
+                    <h4>Email</h4>
+                    <p>@Model.ContactEmail</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact Section End -->
+<!-- Map Begin -->
+<div class="map">
+    <iframe src="@Model.ContactMap"
+            height="500" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <div class="map-inside">
+        <i class="icon_pin"></i>
+        <div class="inside-widget">
+            <h5>New York</h5>
+            <ul>
+                <li>Phone: +65 11.188.888</li>
+                <li>Add: 60-49 Road 11378 New York</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Map End -->

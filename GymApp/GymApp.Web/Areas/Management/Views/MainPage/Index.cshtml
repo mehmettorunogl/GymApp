@@ -1,0 +1,18 @@
+﻿@model MainPage 
+
+<div class="row">
+    <div class="col-12">
+		<div class="card">
+			@if (!string.IsNullOrEmpty(Model.ImageUrl))
+			{
+				<img src="assets/images/gallery/02.jpg" class="card-img-top">
+			}
+			
+			<div class="card-body">
+				<h5 class="card-title">@Model.Title</h5>
+				<p class="card-text">@Model.Description</p>
+				<small class="text-muted">@Model.UpdatedDate</small>
+			</div>
+		</div>
+    </div>
+</div>

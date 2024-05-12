@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Franchise>
+
+<a class="btn btn-success"
+   asp-area="Management"
+   asp-controller="Franchise"
+   asp-action="Create">Ekle</a>
+
+<div class="card radius-15">
+	<div class="card-body">
+		<div class="card-title">
+			<h4 class="mb-0">Franchise</h4>
+		</div>
+		<hr>
+		<div class="table-responsive">
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th scope="col">E-mail</th>
+						<th scope="col">Telefon</th>
+						<th scope="col">Çalışma Zamanı</th>
+						<th scope="col">Durumu</th>
+						<th scope="col">#</th>
+
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>@item.Email</td>
+							<td>@item.Phone</td>
+							<td>@item.WorkingTime</td>
+							<td>@item.Status</td>
+							<td>
+								<a class="btn btn-primary"
+								   asp-area="Management"
+								   asp-controller="Franchise"
+								   asp-action="Details"
+								   asp-route-id="@item.Id">Detay</a>
+								<a class="btn btn-primary"
+								   asp-area="Management"
+								   asp-controller="Franchise"
+								   asp-action="Edit"
+								   asp-route-id="@item.Id">Düzenle</a>
+								<a class="btn btn-danger"
+								   asp-area="Management"
+								   asp-controller="Franchise"
+								   asp-action="Delete"
+								   asp-route-id="@item.Id">Sil</a>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
