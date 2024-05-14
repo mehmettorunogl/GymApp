@@ -7845,11 +7845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\mehme\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
       "projectName": "GymApp.Web",
-      "projectPath": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
+      "projectPath": "C:\\Users\\mehme\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
       "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehme\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp\\GymApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\mehme\\Documents\\GitHub\\GymApp\\GymApp\\GymApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",

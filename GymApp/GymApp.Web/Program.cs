@@ -1,7 +1,16 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(opt =>
+{
+    opt.LoginPath = "/Management/Account/Login"; 
+    //action result = login
+    //account = controller
+});
 
 var app = builder.Build();
 
@@ -17,7 +26,10 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
+//kimlik doðrulama
 app.UseAuthorization();
+//yetki doðrulama
 
 app.UseEndpoints(endpoints =>
 {

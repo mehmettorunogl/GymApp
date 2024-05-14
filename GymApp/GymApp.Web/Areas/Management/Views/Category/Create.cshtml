@@ -9,7 +9,12 @@
 					<h5 class="mb-5 mt-2 text-dark">Kategori Ekle</h5>
 				</div>
 				<hr>
-				<form class="row g-3" method="post">
+				<form class="row g-3" method="post" enctype="multipart/form-data">
+					<div class="col-12">
+                        <label asp-for="ImageUrl" class="form-label">Resim</label>
+                        <input type="file" class="form-control border-start-0" name="img" id="img" accept="*/image">
+                        <span class="text-danger" asp-validation-for="ImageUrl"></span>
+                    </div>
 					<div class="col-12">
 						<label asp-for="Title" class="form-label">Başlık</label>
 						<div class="input-group input-group-lg">

@@ -13,6 +13,7 @@
 			<table class="table table-bordered">
 				<thead>
 					<tr>
+						<th scope="col">Resim</th>
 						<th scope="col">Başlangıç</th>
 						<th scope="col">Bitiş</th>
 						<th scope="col">Üye Sayısı</th>
@@ -22,6 +23,9 @@
 					</tr>
 				</thead>
 				<tbody>
+					<td>
+						<img src="@Model.ImageUrl" width="200px" />
+					</td>
 					@foreach (var item in Model.Courses)
 					{
 						<tr>
